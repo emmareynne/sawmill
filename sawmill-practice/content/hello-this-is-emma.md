@@ -4,14 +4,14 @@ title = "Hello, This is Emma"
 content = "hello my name is emma"
 template = "body-copy"
 [[blocks]]
-background_style = "Brand Color"
-button_text = ""
-button_url = ""
-content = ""
+background_style = "Light"
+button_text = "google"
+button_url = "google"
+content = "Emmaaaa"
 heading = ""
-image = ""
+image = "/uploads/screen-shot-2021-02-26-at-8-58-53-am.png"
 image_position = "Left"
-image_shadow = false
+image_shadow = true
 subheading = ""
 template = "media-feature"
 [[blocks]]
