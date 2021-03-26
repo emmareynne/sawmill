@@ -38,5 +38,3 @@ fields:
     - Small
   label: Size
   default: Big
-pages:
-- sawmill-practice/content/_index.md.md
