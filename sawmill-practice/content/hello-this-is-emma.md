@@ -1,7 +1,7 @@
 +++
 title = "Hello, This is Emma"
 [[blocks]]
-content = ""
+content = "hello my name is emma"
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
