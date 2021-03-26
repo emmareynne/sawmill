@@ -8,11 +8,11 @@ background_style = "Light"
 button_text = "google"
 button_url = "google"
 content = "Emmaaaa"
-heading = ""
+heading = "Emma wuz here"
 image = "/uploads/screen-shot-2021-02-26-at-8-58-53-am.png"
 image_position = "Left"
 image_shadow = true
-subheading = ""
+subheading = "hahahahaha"
 template = "media-feature"
 [[blocks]]
 background_image = ""
