@@ -13,3 +13,5 @@ fields:
   - call-to-action
   - media-feature
   - hero-section
+pages:
+- sawmill-practice/content/hello-this-is-emma.md
