@@ -1,0 +1,3 @@
+[submodule "sawmill-practice/themes/sawmill"]
+	path = sawmill-practice/themes/sawmill
+	url = https://github.com/forestryio/sawmill.git
